@@ -1,0 +1,166 @@
+.elementor-2248
+  .elementor-element.elementor-element-209959e
+  > .elementor-container
+  > .elementor-column
+  > .elementor-widget-wrap {
+  align-content: center;
+  align-items: center;
+}
+.elementor-2248
+  .elementor-element.elementor-element-209959e:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-2248
+  .elementor-element.elementor-element-209959e
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("https://static-content.cromwell.co.uk/content/images/homepage/banners/Value-Proposition-Banner-Cromwell-1578x300.webp");
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.elementor-2248
+  .elementor-element.elementor-element-209959e
+  > .elementor-background-overlay {
+  background-color: transparent;
+  background-image: linear-gradient(
+    180deg,
+    var(--e-global-color-astglobalcolor5) 0%,
+    rgba(239, 248, 250, 0.45) 50%
+  );
+  opacity: 1;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-2248 .elementor-element.elementor-element-209959e,
+.elementor-2248
+  .elementor-element.elementor-element-209959e
+  > .elementor-background-overlay {
+  border-radius: 0 0 80px 80px;
+}
+.elementor-2248 .elementor-element.elementor-element-209959e {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 240px 0 160px;
+}
+.elementor-2248
+  .elementor-element.elementor-element-94ddce2
+  > .elementor-widget-container {
+  padding: 0;
+}
+.elementor-2248 .elementor-element.elementor-element-2be3022 {
+  padding: 104px 0 80px;
+}
+.elementor-2248 .elementor-element.elementor-element-2781f7a {
+  text-align: left;
+}
+.elementor-2248
+  .elementor-element.elementor-element-2781f7a
+  > .elementor-widget-container {
+  margin: 0 0 32px;
+}
+.elementor-2248
+  .elementor-element.elementor-element-bcbd77e:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-2248
+  .elementor-element.elementor-element-bcbd77e
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: var(--e-global-color-astglobalcolor4);
+}
+.elementor-2248 .elementor-element.elementor-element-bcbd77e {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 104px 0 80px;
+}
+.elementor-2248
+  .elementor-element.elementor-element-bcbd77e
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-2248 .elementor-element.elementor-element-8282b47 {
+  text-align: left;
+}
+.elementor-2248
+  .elementor-element.elementor-element-8282b47
+  > .elementor-widget-container {
+  margin: 0 0 32px;
+}
+@media (max-width: 1024px) {
+  .elementor-2248
+    .elementor-element.elementor-element-209959e:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-2248
+    .elementor-element.elementor-element-209959e
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-size: cover;
+  }
+  .elementor-2248 .elementor-element.elementor-element-209959e,
+  .elementor-2248
+    .elementor-element.elementor-element-209959e
+    > .elementor-background-overlay {
+    border-radius: 0 0 56px 56px;
+  }
+  .elementor-2248 .elementor-element.elementor-element-209959e {
+    padding: 240px 40px 160px;
+  }
+  .elementor-2248
+    .elementor-element.elementor-element-ca15f66
+    > .elementor-element-populated {
+    padding: 0;
+  }
+  .elementor-2248 .elementor-element.elementor-element-2be3022 {
+    padding: 80px 40px 40px;
+  }
+  .elementor-2248 .elementor-element.elementor-element-bcbd77e {
+    padding: 80px 40px 40px;
+  }
+}
+@media (max-width: 767px) {
+  .elementor-2248
+    .elementor-element.elementor-element-209959e:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-2248
+    .elementor-element.elementor-element-209959e
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: center center;
+    background-size: 200% auto;
+  }
+  .elementor-2248 .elementor-element.elementor-element-209959e,
+  .elementor-2248
+    .elementor-element.elementor-element-209959e
+    > .elementor-background-overlay {
+    border-radius: 0 0 32px 32px;
+  }
+  .elementor-2248 .elementor-element.elementor-element-209959e {
+    padding: 200px 24px 80px;
+  }
+  .elementor-2248
+    .elementor-element.elementor-element-ca15f66
+    > .elementor-element-populated {
+    padding: 0;
+  }
+  .elementor-2248 .elementor-element.elementor-element-2be3022 {
+    padding: 64px 24px 32px;
+  }
+  .elementor-2248
+    .elementor-element.elementor-element-2781f7a
+    > .elementor-widget-container {
+    margin: 0 0 16px;
+  }
+  .elementor-2248
+    .elementor-element.elementor-element-840eb79
+    > .elementor-widget-container {
+    margin: 0;
+  }
+  .elementor-2248 .elementor-element.elementor-element-bcbd77e {
+    padding: 80px 24px 60px;
+  }
+  .elementor-2248
+    .elementor-element.elementor-element-8282b47
+    > .elementor-widget-container {
+    margin: 0 0 16px;
+  }
+}
