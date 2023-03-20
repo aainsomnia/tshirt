@@ -13,45 +13,45 @@ var ShoppingCart = (function($) {
     var products = [
       {
         id: 0,
-        name: "CPK090, Insulated Terminals",
-        description: "CPK090, Insulated Terminals/Non-Insulated Terminals, Crimping Tool Kit, 1.5mm² - 16mm ².",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/515/ken5155090k.jpg",
-        price: 342000
+        name: "Eagle Round T-Shirt",
+        description: "Eagle Round T-Shirt",
+        imageUrl: "https://eagle.co.id/wp-content/uploads/2020/12/Round-T-shirt-Maroon.jpg",
+        price: 99900
       },
       {
         id: 1,
-        name: "Wet & Dry Vacuum Cleaner & Blower",
-        description: "Wet & Dry Vacuum Cleaner & Blower ",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/279/kbe2793140k.jpg",
-        price: 2901690,
+        name: "T-shirt Badminton Nest",
+        description: "T-shirt Badminton Nest ",
+        imageUrl: "https://eagle.co.id/wp-content/uploads/2021/11/Nest-1.jpg",
+        price: 131900
       },
       {
         id: 2,
-        name: "Replacement Filter for 50ltr Parts Washer (Pk-5)",
-        description: "Replacement Filter for 50ltr Parts Washer (Pk-5)",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/503/ken5038640k.jpg",
-        price: 4700000
+        name: "T Shirt Badminton Round Neck",
+        description: "T Shirt Badminton Round Neck",
+        imageUrl: "https://eagle.co.id/wp-content/uploads/2023/03/Round-Neck-4.jpg",
+        price: 69900
       },
       {
         id: 3,
-        name: "6.00mm DIA HSS S/S R-F JOBBER DRILL",
-        description: "6.00mm DIA HSS S/S R-F JOBBER DRILL",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/025/sen0250117x.jpg",
-        price: 999
+        name: "T-Shirt Badminton Jersey Lightburst",
+        description: "T-Shirt Badminton Jersey Lightburst",
+        imageUrl: "https://eagle.co.id/wp-content/uploads/2022/10/Light-Burst-1.jpg",
+        price: 131900
       },
       {
         id: 4,
-        name: "Adjustable Spanner Set, Steel, Set Of 3",
-        description: "Adjustable Spanner Set, Steel, Set Of 3",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/501/ken5010600k.jpg",
-        price: 1271600
+        name: "PANTS BADMINTON COMBY 2",
+        description: "PANTS BADMINTON COMBY 2",
+        imageUrl: "https://eagle.co.id/wp-content/uploads/2022/09/Combi-2-B.jpg",
+        price: 119900
       },
       {
         id: 5,
-        name: "Pro-Torq, Flared/Parallel Set of 12",
-        description: "Pro-Torq, Flared/Parallel/Phillips/Pozi, Screwdriver Set, Set of 12",
-        imageUrl: "https://static-content.cromwell.co.uk/images/854_854/g/jeeps/572/ken5726030k_2.jpg",
-        price: 1901000
+        name: "T-SHIRT BADMINTON WINGS",
+        description: "T-SHIRT BADMINTON WINGS        ",
+        imageUrl: "https://eagle.co.id/wp-content/uploads/2022/08/New-Jersey-3.jpg",
+        price: 189000
       },
       
     ],
